@@ -28,7 +28,7 @@ After this lesson, you'll be able to
 
 ## Slides
 
-@[gslides](1AoKQRabDZ_9yLkeorz-GM0CCISAUPnPRa_a4lZ3f8O8)
+@[gslides](10ee8tpk1KtV25jaMr4vohTjW-VCV3jLDX7wJ2jMzUwI)
 
 
 ## Assignments 
