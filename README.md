@@ -37,6 +37,8 @@ After this lesson, you'll be able to
 
 & many more inside commit.live.
 
+## Instructor Codealongs
+
 ## Resources & Post Reads
 
 * [Practice Pandas on Data Camp](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python)
