@@ -38,8 +38,8 @@ After this lesson, you'll be able to
 & many more inside commit.live.
 
 ## Instructor Codealongs
-[Pandas](https://github.com/commit-live-students/intro-to-python-advance/blob/master/notebooks/Python-Pandas.ipynb)
-[Matplotlib](https://github.com/commit-live-students/intro-to-python-advance/blob/master/notebooks/Python-Matplotlib.ipynb)
+* [Pandas](https://github.com/commit-live-students/intro-to-python-advance/blob/master/notebooks/Python-Pandas.ipynb)
+* [Matplotlib](https://github.com/commit-live-students/intro-to-python-advance/blob/master/notebooks/Python-Matplotlib.ipynb)
 
 ## Resources & Post Reads
 
